@@ -1,1 +1,16 @@
-
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+<head>
+  <title>?</title>
+  <link rel="stylesheet"
+ href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h3>Do you trust me?</h3>
+  <p>Tap "<strong>Click</strong>" or not, You choose</p>
+  <img src="https://pbs.twimg.com/media/GN23cuLaMAAg9Rx?format=jpg&name=small" width="250" height="250"><br>
+<a href="https://youtube.com/watch?v=xvFZjo5PgG0&si=IFxfv2FddPZnZ3KS"><strong>Click</strong></a>
+</body>
+</html>
